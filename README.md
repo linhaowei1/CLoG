@@ -1,4 +1,3 @@
-````
 <p align="center">
   <a href="https://github.com/linhaowei1/CLoG">
     <img src="figures/CLoG.png" width="50%" alt="CLoG" />
@@ -6,9 +5,8 @@
 </p>
 
 <div align="center">
-
- | [日本語](docs/README_JP.md) | [English](https://github.com/linhaowei1/CLoG) | [中文简体](docs/README_CN.md) | [中文繁體](docs/README_TW.md) |
-
+<div align="center">
+   | [日本語](docs/README_JP.md) | [English](https://github.com/linhaowei1/CLoG) | [中文简体](docs/README_CN.md) | [中文繁體](docs/README_TW.md) |
 </div>
 
 
@@ -29,8 +27,7 @@ Code and data for our paper <a href="#">CLoG: Benchmarking Continual Learning of
 
 
 ## 👋 Overview
-We advocates for shifting the research focus from classification-based continual learning (CL) to continual learning of generative models (CLoG). 
-Our codebase adapts three types of existing CL methodologies—replay-based, regularization-based, and parameter-isolation-based methods—to generative tasks and introduce 8 benchmarks for CLoG that feature great diversity and broad task coverage. 
+We advocates for shifting the research focus from classification-based continual learning (CL) to **continual learning of generative models (CLoG)**. Our codebase adapts three types of existing CL methodologies—replay-based, regularization-based, and parameter-isolation-based methods—to generative tasks and introduce 8 benchmarks for CLoG that feature great diversity and broad task coverage. 
 
 <img src="figures/main-01.png">
 
@@ -68,6 +65,3 @@ If you find our work helpful, please use the following citations.
 
 ## 🪪 License
 MIT. Check `LICENSE.md`.
-````
-
-<iframe id="ZUmiGew9" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" frameborder="0" style="color: rgb(255, 255, 255); font-family: Times; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 0px; height: 0px;"></iframe>
