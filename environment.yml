@@ -1,0 +1,17 @@
+name: CLoG
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.8
+  - transformers==4.36.2
+  - torch==2.1.0
+  - torchvision==0.16.0
+  - torch-fidelity==0.3.0
+  - torchmetrics==1.0.0
+  - timm==0.8.19.dev0
+  - datasets==2.17.1
+  - diffusers==0.26.3
+  - accelerate==0.27.2
+  - peft==0.10.0
